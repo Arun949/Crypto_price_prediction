@@ -41,7 +41,7 @@ What’s Included:
 	•	README.md: Documentation to guide you through setting up the project.
 	•	.gitignore: For ignoring unnecessary files in the repo.
 
- git clone https://github.com/yourusername/cryptocurrency-price-prediction.git
+ git clone https://github.com/Arun949/cryptocurrency-price-prediction.git
  
 cd cryptocurrency-price-prediction
 
